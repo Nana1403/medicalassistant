@@ -23,7 +23,7 @@ Medical Assistant is an AI-powered application designed to provide reliable heal
 - uses ai tools  when needed. 
 - everything is send using llm,  to openai
 - the answer is returned.
-- 
+  
 
 ## 📸 Demo / Screenshots
 
