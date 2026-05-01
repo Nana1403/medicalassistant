@@ -11,10 +11,10 @@ Medical Assistant is an AI-powered application designed to provide reliable heal
 
 
 ## 🛠 Tech Stack
-Python – Backend logic
-OpenAI API – Powers the AI responses
-LangChain – Handles the workflow between components
-RAG (Retrieval-Augmented Generation) – Helps keep answers relevant and grounded
+- Python – Backend logic
+- OpenAI API – Powers the AI responses
+- LangChain – Handles the workflow between components
+- RAG (Retrieval-Augmented Generation) – Helps keep answers relevant and grounded
 
 ## 🧠 How It Works
 - User asks question.
