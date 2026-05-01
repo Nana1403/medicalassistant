@@ -6,7 +6,7 @@ Medical Assistant is an AI-powered application designed to provide reliable heal
 ## 🎯 Features
 - User Input Interface – Just type your question like you would in a conversation
 - AI-Powered Responses – Get helpful, easy-to-understand answers
-- Retrieval-Augmented Generation (RAG) – Pulls in relevant information to improve responses
+- Retrieval-Augmented Generation (Traditional RAG) – Pulls in relevant information to improve responses
 - Built for Everyone – Designed for both medical professionals and the general public
 
 
